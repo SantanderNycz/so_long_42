@@ -69,9 +69,10 @@ git clone https://github.com/<yourusername>/so_long.git
 cd so_long
 make
 ./so_long maps/level1.ber
+```
 
-- Make sure MiniLibX is properly installed on your system.
--- For Linux:
+Make sure MiniLibX is properly installed on your system.
+- For Linux:
 
 ```bash
 	sudo apt install libmlx-dev libxext-dev libx11-dev
@@ -136,4 +137,5 @@ so_long/
 - 💻 GitHub: SantanderNycz
 
 - 🎶 Music Projects: Bemvirá
+
 
