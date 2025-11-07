@@ -75,7 +75,7 @@ make
 
 ```bash
 	sudo apt install libmlx-dev libxext-dev libx11-dev
-````
+```
 
 ## 🧩 Project Structure
 
@@ -136,3 +136,4 @@ so_long/
 - 💻 GitHub: SantanderNycz
 
 - 🎶 Music Projects: Bemvirá
+````
