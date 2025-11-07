@@ -64,7 +64,7 @@ To create new levels, simply add more `.ber` files (e.g. `level1.ber`, `level2.b
 
 Clone the repository and compile with `make`:
 
-````bash
+```bash
 git clone https://github.com/<yourusername>/so_long.git
 cd so_long
 make
@@ -136,4 +136,4 @@ so_long/
 - 💻 GitHub: SantanderNycz
 
 - 🎶 Music Projects: Bemvirá
-````
+
